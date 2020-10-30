@@ -2432,3 +2432,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sneha Gavit](https://github.com/gavitsneha)
+- Place:Maharashtra, India
+- Bio: Student
+- Github: [Sneha Gavit](https://github.com/gavitsneha)
