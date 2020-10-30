@@ -53,6 +53,11 @@
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
+#### Name: [Sneha Gavit](https://github.com/gavitsneha)
+- Place: India
+- Bio:  Post Graduate Student
+- GitHub: [Sneha Gavit](https://github.com/gavitsneha)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
